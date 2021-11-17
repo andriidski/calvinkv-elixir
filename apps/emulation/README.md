@@ -1,0 +1,1 @@
+Emulation layer implementation for DS. Reference / credit in `mix.exs`
